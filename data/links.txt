@@ -1,0 +1,53 @@
+# Format: Inbound/Outbound, TunnelFlag, TrackCount, X/Y ...
+
+# =================================================================== City Loop
+Flinders Street/Southern Cross, 0, 6, -1600/0
+Southern Cross/Flagstaff, 1, 3, 0/-600
+Flagstaff/Melbourne Central, 1, 3
+Melbourne Central/Parliament, 1, 3, 600/0
+
+Flinders Street/Richmond, 0, 5
+Parliament/Richmond, 0, 2, 0/1200
+
+Flinders Street/Jolimont, 0, 2, 0/-600
+Parliament/Jolimont, 1, 2, 0/600
+
+# =================================================================== Richmond-Ringwood
+Richmond/East Richmond/Burnley, 0, 4
+Burnley/Hawthorn/Glenferrie/Auburn/Camberwell/East Camberwell/Canterbury/Chatham/Surrey Hills/Mont Albert/Box Hill/Laburnum/Blackburn/Nunawading/Mitcham/Heatherdale/Ringwood, 0, 2
+Ringwood/Ringwood East/Croydon/Mooroolbark/Lilydale, 0, 2
+Ringwood/Heathmont/Bayswater/Boronia/Ferntree Gully/Upper Ferntree Gully/Upwey/Tecoma/Belgrave, 0, 2
+
+# =================================================================== Burnley-Glen Waverley
+Burnley/Heyington/Kooyong/Tooronga/Gardiner/Glen Iris/Darling/East Malvern/Holmesglen/Jordanville/Mount Waverley/Syndal/Glen Waverley, 0, 2
+
+# =================================================================== Camberwell-Alemain
+Camberwell/Riversdale/Willison/Hartwell/Burwood/Ashburton/Alamein, 0, 2
+
+# =================================================================== Richmond-Sandringham
+Richmond/South Yarra, 0, 6
+South Yarra/Prahran/Windsor/Balaclava/Ripponlea/Elsternwick/Gardenvale/North Brighton/Middle Brighton/Brighton Beach/Hampton/Sandringham, 0, 2
+
+# =================================================================== South Yarra-Pakenham
+South Yarra/Hawksburn/Toorak/Armadale/Malvern/Caulfield, 0, 4
+Caulfield/Carnegie/Murrumbeena/Hughesdale/Oakleigh/Huntingdale/Clayton/Westall/Springvale/Sandown Park/Noble Park/Yarraman/Dandenong/Hallam/Narre Warren/Berwick/Beaconsfield/Officer/Pakenham, 0, 2
+
+# =================================================================== Caulfield-Frankston
+Caulfield/Glenhuntly/Ormond/McKinnon/Bentleigh/Patterson/Moorabbin/Highett/Cheltenham/Mentone/Parkdale/Mordialloc/Aspendale/Edithvale/Chelsea/Bonbeach/Carrum/Seaford/Kananook/Frankston, 0, 2
+
+# =================================================================== Dandenong-Cranbourne
+Dandenong/Merinda Park/Cranbourne, 0, 2
+
+
+
+# =================================================================== North Melbourne-Craigieburn
+North Melbourne/Kensington/Newmarket/Ascot Vale/Moonee Ponds/Essendon/Glenbervie/Strathmore, 0, 2
+
+
+
+# =================================================================== Jolimont-Epping
+Jolimont/West Richmond, 0, 2, 2200/0
+West Richmond/North Richmond/Collingwood/Victoria Park/Clifton Hill/Rushall/Merri/Northcote/Croxton/Thornbury/Bell/Preston/Regent/Reservoir/Ruthven/Keon Park/Thomastown/Lalor/Epping, 0, 2
+
+# =================================================================== Clifton Hill-Hurstbridge
+Clifton Hill/Westgarth/Dennis/Fairfield/Alphington/Darebin/Ivanhoe/Eaglemont/Heidelburg/Rosanna/Macleod/Watsonia/Greensborough/Montmorency/Eltham/Diamond Creek/Wattle Glen/Hurstbridge, 0, 2
